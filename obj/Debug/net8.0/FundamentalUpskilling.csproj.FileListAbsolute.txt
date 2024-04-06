@@ -1,0 +1,14 @@
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/bin/Debug/net8.0/FundamentalUpskilling
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/bin/Debug/net8.0/FundamentalUpskilling.deps.json
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/bin/Debug/net8.0/FundamentalUpskilling.runtimeconfig.json
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/bin/Debug/net8.0/FundamentalUpskilling.dll
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/bin/Debug/net8.0/FundamentalUpskilling.pdb
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.GeneratedMSBuildEditorConfig.editorconfig
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.AssemblyInfoInputs.cache
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.AssemblyInfo.cs
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.csproj.CoreCompileInputs.cache
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.dll
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/refint/FundamentalUpskilling.dll
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.pdb
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.genruntimeconfig.cache
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/ref/FundamentalUpskilling.dll

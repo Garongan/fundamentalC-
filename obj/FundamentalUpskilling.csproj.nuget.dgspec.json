@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/FundamentalUpskilling.csproj": {}
+  },
+  "projects": {
+    "/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/FundamentalUpskilling.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/FundamentalUpskilling.csproj",
+        "projectName": "FundamentalUpskilling",
+        "projectPath": "/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/FundamentalUpskilling.csproj",
+        "packagesPath": "/home/alvindo/.nuget/packages/",
+        "outputPath": "/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/alvindo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/alvindo/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
