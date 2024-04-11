@@ -12,3 +12,4 @@
 /media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.pdb
 /media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.genruntimeconfig.cache
 /media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/ref/FundamentalUpskilling.dll
+/media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/obj/Debug/net8.0/FundamentalUpskilling.sourcelink.json
