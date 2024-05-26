@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FundamentalUpskilling
-build_property.ProjectDir = /media/alvindo/Data/bootcamp/dotnet/FundamentalUpskilling/
+build_property.ProjectDir = E:\bootcamp\dotnet\fundamentalCsharp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

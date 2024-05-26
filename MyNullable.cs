@@ -29,5 +29,18 @@ public class MyNullable
         {
             Console.WriteLine("Error: data kosong");
         }
+        // string kosong
+        string fullName = "";
+        var newFullName = string.Empty;
+        SayHello(newFullName);
+    }
+
+    static void SayHello(string? name)
+    {
+        // support untuk is not or and
+        if (name is not null)
+        {
+            Console.WriteLine($"HEllO, {name}");
+        }
     }
 }
