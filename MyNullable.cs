@@ -2,7 +2,7 @@ namespace FundamentalUpskilling;
 
 public class MyNullable
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         // membuat variable dengan nilai awal null dengan class Nullable<T> -> tipe data generic (dapat menerima tipe data apapun)
         // Nullable merupakaan sebuah struct
