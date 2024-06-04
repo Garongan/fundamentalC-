@@ -34,33 +34,33 @@ public class Hero
     }
 }
 
-public class Program
-{
-    public static void Main(string[] args)
-    {
-        var balmond = new Hero
-        {
-            Name = "Balmond",
-            Hp = 3000,
-            BaseDamage = 300
-        };
-
-        var nana = new Hero
-        {
-            Name = "Nana",
-            Hp = 2500,
-            BaseDamage = 200
-        };
-
-        balmond.Attack(nana);
-
-        var minion = new Monster
-        {
-            Name = "Minion",
-            Hp = 1000,
-            BaseDamage = 100
-        };
-        
-        nana.Attack(minion);
-    }
-}
+// public class Program
+// {
+//     public void Main(string[] args)
+//     {
+//         var balmond = new Hero
+//         {
+//             Name = "Balmond",
+//             Hp = 3000,
+//             BaseDamage = 300
+//         };
+//
+//         var nana = new Hero
+//         {
+//             Name = "Nana",
+//             Hp = 2500,
+//             BaseDamage = 200
+//         };
+//
+//         balmond.Attack(nana);
+//
+//         var minion = new Monster
+//         {
+//             Name = "Minion",
+//             Hp = 1000,
+//             BaseDamage = 100
+//         };
+//         
+//         nana.Attack(minion);
+//     }
+// }

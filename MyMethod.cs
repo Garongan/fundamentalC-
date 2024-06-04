@@ -9,7 +9,7 @@ public class MyMethod
         var sum = Sum(5, 6);
         Console.WriteLine(sum);
 
-        // anonymous method, hanay dapat berjalan di local
+        // anonymous method, hanya dapat berjalan di local
         var print = delegate (string any)
         {
             Console.WriteLine($"ini dari method anonim dengan parameter {any}");

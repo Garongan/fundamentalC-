@@ -75,5 +75,12 @@ public class MyArray
             }
             Console.WriteLine("]");
         }
+
+        Console.WriteLine(new string('-', 50));
+        string[] names = ["Ambatron", "Rusdi"];
+        string[] animals = new string[] { "Babi", "Anjing" };
+        Console.WriteLine(names[0]);
+        animals[1] = "Adil";
+        Console.WriteLine(animals[1]);
     }
 }

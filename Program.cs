@@ -111,6 +111,6 @@ public class Program
         string firstName = "Alvindo";
         string lastName = "Jatmiko";
         string fullName = $"{firstName} {lastName}";
-        System.Console.WriteLine(fullName);
+        Console.WriteLine(fullName);
     }
 }
