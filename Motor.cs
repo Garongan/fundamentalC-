@@ -47,7 +47,7 @@ class Heli : IHeli
 
 public class Program
 {
-    public static void Main(string[] args)
+    public void Main(string[] args)
     {
         MotorMahal motor = new MotorMahal();
         motor.startEngine();

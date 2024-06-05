@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FundamentalUpskilling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a52f0bc98a6f78905de59d814c98591ebc98e7de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ad443227fa5df2ef86a2796be4c591ebe6e946")]
 [assembly: System.Reflection.AssemblyProductAttribute("FundamentalUpskilling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FundamentalUpskilling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
